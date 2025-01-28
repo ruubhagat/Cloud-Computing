@@ -1,2 +1,2 @@
 # Cloud-Computing
-Cloud Computing Labs
+Cloud Computing Lab Materials
